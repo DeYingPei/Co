@@ -1,0 +1,22 @@
+body{
+    padding: 20px 0 0 0 ;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+img{
+    height: 600px;
+    margin: auto;
+}
+
+.name{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
